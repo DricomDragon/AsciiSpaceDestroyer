@@ -1,0 +1,5 @@
+Endigger 25 0
+Endigger 75 0
+Endigger 50 450
+Endigger 33 600
+Endigger 66 700

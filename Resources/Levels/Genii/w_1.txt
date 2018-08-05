@@ -1,0 +1,4 @@
+Nosmo 90 0
+Nosmo 25 60
+Nosmo 60 120
+Nosmo 80 240

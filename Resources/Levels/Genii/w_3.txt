@@ -1,0 +1,10 @@
+Nosmo 10 0
+Nosmo 90 0
+Nosmo 25 20
+Nosmo 75 20
+Nanostray 50 100
+Nosmo 60 300
+Nosmo 40 300
+Miner 50 400
+Nosmo 80 450
+Nosmo 20 460

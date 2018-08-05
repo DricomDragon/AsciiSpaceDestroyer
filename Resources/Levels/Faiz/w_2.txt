@@ -1,0 +1,6 @@
+Simp 25 0
+Simp 50 150
+Simp 75 300
+Dard 60 200
+Dard 80 220
+Dard 70 250

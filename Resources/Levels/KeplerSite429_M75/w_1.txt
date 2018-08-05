@@ -1,0 +1,2 @@
+MiniCargo 25 0
+MiniCargo 80 20

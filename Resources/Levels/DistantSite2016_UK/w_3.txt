@@ -1,0 +1,4 @@
+Endigger 10 0
+Breaker 80 300
+Breaker 60 600
+Breaker 70 800

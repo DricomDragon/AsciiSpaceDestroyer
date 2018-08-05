@@ -7,9 +7,10 @@
 #include <ctime>
 
 // SDL
-#include <SDL/SDL.h>
+#include <SDL.h>
 #undef main
-#include <SDL/SDL_gfxPrimitives.h>
+
+#include "SDL_GFX/SDL_gfxPrimitives.h"
 
 // Local
 #include "HitManager.h"

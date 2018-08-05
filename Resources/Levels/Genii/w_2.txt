@@ -1,0 +1,7 @@
+Nosmo 60 0
+Nosmo 40 50
+Nosmo 15 112
+Nosmo 85 112
+Nanostray 50 200
+Nosmo 25 250
+Nosmo 75 250

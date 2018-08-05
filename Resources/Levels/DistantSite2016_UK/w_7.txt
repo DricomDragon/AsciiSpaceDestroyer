@@ -1,0 +1,8 @@
+Breaker 50 0
+Endigger 25 250
+Endigger 75 350
+HBShip 33 500
+HBShip 66 600
+HBShip 80 700
+Breaker 33 800
+Breaker 66 800

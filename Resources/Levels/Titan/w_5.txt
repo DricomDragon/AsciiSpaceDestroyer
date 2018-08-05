@@ -1,0 +1,9 @@
+Builder 10 70
+Builder 25 0
+Builder 40 280
+Builder 55 350
+Builder 60 140
+Builder 75 210
+Athena 25 400
+Helios 75 500
+Zeus 50 650

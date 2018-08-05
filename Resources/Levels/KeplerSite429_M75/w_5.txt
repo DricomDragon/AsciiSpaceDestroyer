@@ -1,0 +1,10 @@
+MiniCargo 10 0
+MiniCargo 90 0
+MiniCargo 25 20
+MiniCargo 75 20
+Escorter 18 400
+MiniCargo 60 300
+MiniCargo 40 300
+Extractor 50 500
+MiniCargo 80 650
+MiniCargo 20 760

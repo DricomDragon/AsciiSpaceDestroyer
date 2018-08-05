@@ -1,0 +1,14 @@
+Ter 10 0
+Ter 50 0
+Ter 40 100
+Ter 70 100
+Ter 60 200
+Ter 20 200
+Ter 30 300
+Ter 90 300
+Ter 80 400
+Ter 45 400
+Ter 10 500
+Ter 25 500
+Ter 75 580
+Ter 90 580

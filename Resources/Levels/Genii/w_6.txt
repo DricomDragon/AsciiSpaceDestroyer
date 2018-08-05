@@ -1,0 +1,10 @@
+Nanostray 50 0
+Nanostray 65 100
+Nanostray 35 100
+Nanostray 20 160
+Nanostray 80 160
+Miner 25 300
+Miner 75 300
+Miner 50 360
+Nanostray 50 500
+Geo 50 1000

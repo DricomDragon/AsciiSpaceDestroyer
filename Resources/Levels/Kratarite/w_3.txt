@@ -1,0 +1,12 @@
+Oko 90 0
+Manako 50 40
+Oko 45 8
+Oko 65 92
+Oko 35 184
+Oko 15 240
+Manako 50 320
+Oko 85 400
+Oko 15 440
+Oko 35 480
+Manako 30 600
+Manako 70 620

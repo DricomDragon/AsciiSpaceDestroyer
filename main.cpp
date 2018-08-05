@@ -2,6 +2,9 @@
 
 int main ( int argc, char** argv )
 {
+    /// [0] Starting
+    std::cout << "ASCII Space Destroyer starts." << std::endl;
+
     /// [1] Construction
     Game myGame;
 

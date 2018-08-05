@@ -1,0 +1,3 @@
+Nom
+Y en pourcentage
+retard X en pixels

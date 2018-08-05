@@ -1,0 +1,3 @@
+Toper 35 0
+Ter 65 0
+Toper 10 50

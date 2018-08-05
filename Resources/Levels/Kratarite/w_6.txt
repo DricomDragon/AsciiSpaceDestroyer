@@ -1,0 +1,13 @@
+Manako 90 0
+Oko 20 20
+Fiasko 50 40
+Manako 40 8
+Manako 65 100
+Manako 30 190
+Manako 10 240
+Fiasko 50 322
+Manako 85 400
+Manako 10 440
+Manako 30 480
+Fiasko 25 800
+Fiasko 70 1000

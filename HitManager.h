@@ -8,9 +8,10 @@
 #include <vector>
 
 // SDL
-#include <SDL/SDL.h>
+#include <SDL.h>
 #undef main
-#include <SDL/SDL_gfxPrimitives.h>
+
+#include "SDL_GFX/SDL_gfxPrimitives.h"
 
 // Combat
 #include "Shot.h"

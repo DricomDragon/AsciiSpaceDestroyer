@@ -1,0 +1,3 @@
+Cockpit 50 0
+Cockpit 20 300
+Cockpit 70 600

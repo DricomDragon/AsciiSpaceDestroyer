@@ -1,0 +1,5 @@
+Toper 50 0
+Ter 60 150
+Ter 40 170
+Toper 75 250
+Toper 25 450

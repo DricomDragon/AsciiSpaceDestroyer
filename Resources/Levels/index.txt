@@ -1,0 +1,230 @@
+> Tutoriel
+Menu:
+Clic gauche sur un champ -> suivant
+Clic droit -> precedent
+
+Combat:
+Souris -> bouger le vaisseau
+Barre espace -> Actionne toutes les armes
+Clic gauche -> Gun
+Clic droit -> Cutter
+Touche A -> ProtoSeeker
+Touche Z -> Missile
+Touche E -> Disper
+Touche R -> Brexit Launcher
+Touche T -> Hecto Combustion
+Touche Y -> Sniper
+
+Mission:
+Decouvrir les armes que vous aurez a combattre.
+
+> Alderande
+Description :
+Une planete peu defendue aux technologies
+primitives, mais qui intercepte des vaisseaux sans escorte
+de la federation. Grace aux cargos de deuterium ainsi
+pilles, il ont developpe une arme destructrice a tres courte
+portee. Cependant, a cause de leur manque de ressources,
+seul un croiseur en est equipe.
+
+Technologie :
+Ils disposent du DISPER, qui est une arme qui
+projette de nombreux projectiles tres puissants.
+
+Mission :
+Recuperer le DISPER, en develepppement dans un petit labo
+de forme cubique.
+
+Recompense :
+Une fois que nos scientifiques auront analyse l'arme, nous vous
+fournirons en DISPER.
+
+> BlueMoon
+Description :
+BlueMoon est une lune en orbite autour de la plus grande planete
+gazeuse du systeme PAX. Isolee des planetes techniquement evoluees,
+les batiments sont rudimentaires et l'anarchie regne. Cette planete
+est connue pour ses pirates et ses marches noirs.
+
+Technologie :
+Ils partagent les plans voles du synchroniseur, une technologie
+rudimentaire pour augmenter le nombre d'armes sur un chasseur.
+
+Mission :
+Vous aurez besoin de vaisseaux moins freles pour la suite des
+operations. Allez recuperer un synchroniseur pour augmenter votre
+charge CPU.
+
+Recompense :
+Un synchroniseur qui stabilise votre vaisseau jusqu'a 100 CPU.
+
+> Faiz
+Description :
+Faiz est une planete tres eloignee de son Soleil. Recouverte de glace,
+des industriels utilisent des moyens hors du commun afin d'extraire
+des materiaux rares aux proprietes tres interessantes.
+
+Technologie :
+Des chercheurs sont envoyes sur place pour analyser les materiaux
+recuperes. Grace aux proprietes decouvertes sur le Dracium,
+ils ont pu creer une arme a dispersion verticale d'energie.
+Aussi utilisee pour le decoupage du fer, ils l'ont nommee CUTTER.
+
+Mission :
+Un stock de materiaux a ete vole dans un entrepot. L'entreprise
+vous missionne pour intercepter les voleurs.
+
+Recompense :
+L'entreprise promet le CUTTER en remerciement.
+
+> DistantSite2016_UK
+Description :
+Cette petite planete realise une orbite autour du Soleil de PAX.
+Disposant de voisins aux differends innombrables, la guerre est
+souvent de mise dans ce coin du systeme. Leur communaute des lords
+a alors decide de construire un gigantesque reacteur sur leur planete
+pour devier sa trajectoire et quitter le systeme de PAX. Agissant
+en toute inconsequence, leur reacteur a demarre sans aucune maitrise.
+D'apres les calculs de nos scientifiques, leur erreur leur a fait
+definitivment perdre leur orbite et les dirige droit vers le Soleil.
+
+Technologie :
+Leurs scientifiques sont passes maitres dans l'art de diviser,
+ils ont donc cree une arme dont le tir se divise dans deux directions.
+
+Mission :
+Des militants traditionnalistes proclament que leur trajectoire
+est correcte et force les habitants a rester sur leur planete.
+Detruisez leur flotte de croiseurs pour laisser le champ libre
+pour nos vaiseaux de transport.
+
+Recompense :
+Contre leur sauvetage, le groupe de scientifiques est pret a vous
+fournir en BREXIT, leur arme a tirs diagonaux.
+
+> KeplerSite429_M75
+Description :
+Cet asteroide est arrive dans le systeme solaire PAX il y a peu.
+Les Klarks, mafia spatiale tres puissante en ces lieux, a fait
+detourner la trajectoire de l'asteroide pour le mettre en
+orbite autour du Soleil de PAX. Cet asteroide contient en effet
+beaucoup de Nickel, materiau necessaire aux coques de vaisseau.
+
+Technologie :
+Leur equipe reduite d'experts est capable a partir d'un alliage
+de nickel d'augmenter la capacite d'un chasseur.
+
+Mission:
+Detruire les drones d'extraction et ramener un chargement de nickel.
+
+Recompense :
+A partir du nickel recupere vous aurez le droit a un synchroniseur
+plus performant, pour aller jusqu'a 200 CPU.
+
+> Titan
+Description :
+Titan est une planete possedant une atmosphere toxique
+particulierement mortelle pour l'homme. Possedant tres peu
+de ressources minieres, elle n'est que peu interessante
+economiquement. Neanmoins, il y a quelques annees,
+un scientifique de la planete Chateaubriande a envoye un
+robot de haute technologie dote d'un nouveau genre
+d'intelligence artificielle pour realiser une experience.
+L'atmosphere corrosive a empeche le scientifique de commander
+le retour de son robot qui a fonde une civilisation. Jusque
+la paisibles, leur croissance nous inquiete et leurs intentions
+nous sont inconnues.
+
+Technologie : Malgre des ressources peu interessantes, les robots
+ont reussi a produire et a stocker de l'energie tres facilement,
+et ce en tres grandes quantites.
+
+Mission :
+Notre satellite a detecte d'enormes batiments de guerre en
+construction dans leur atmosphere haute. Allez faire du reperage,
+et s'ils sont agressifs, contre-attaquez.
+
+Recompense :
+Vos analyseurs nous procureront des donnees sur leurs generateurs
+d'energie. Cela permettra a nos scientifiques de finaliser leur
+BOUCLIER DE COMBAT.
+
+> Genii
+Description :
+Cette planete est majoritairement habitee par
+des religieux qui ont decide de batir une civilisation en
+harmonie avec la nature. Profitant de leur manque d'effectif
+militaire, des mercenaires ont installe une base illegale sur
+une ile isolee proche de l'equateur.
+
+Technologie :
+Grace a leurs habitudes du transport illegal, ces mercenaires
+ont developpe des techniques pour construire des
+chasseurs rapides plus spacieux.
+
+Mission :
+Detruire leur satellite de communication, pour nous permettre
+une action a plus grande echelle en toute discretion.
+
+Recompense :
+Si vous approchez assez du satellite de communication, les donnees
+recuperees pourront etre utilisees pour augmenter votre CPU a 300.
+
+> Telurande
+Description :
+Planete a haute densite de metal, qui lui donne
+une tres grande valeur economique. Leurs habitants
+sont tous doues dans la metallurgie et cohabitent avec
+les robots qu'ils concoivent. Grace a leurs competences,
+leurs plus grands scientifiques ont mis au point des
+armes basees sur le decoupage de metal par haute densite
+electromagnetique.
+
+Technologie :
+Ils disposent de l'HECTO-COMBUSTION, qui est une arme qui
+projette des balles persitantes qui cisaillent le vaisseau.
+
+Mission :
+Des vaisseaux robotises ont ete pirates et les citoyens
+nous demandent de les detruire avant qu'il ne soit trop tard.
+
+Recompense :
+Les citoyens nous laissent libre acces a l'HECTO-COMBUSTION
+en remerciement.
+
+> Kratarite
+Description :
+Cette planete est recouverte de mines de fer.
+Forte de ces relations commerciales, Kratarite
+est devenue une puissance economique sans precedent.
+Elle produit entre autres des vaisseaux equipes pour
+l'extraction de materiaux sur les asteroides lointains.
+Elle possede egalement, grace aux nombreux laboratoires
+destines a etudier les ressorts de l'electromagnetisme,
+une arme qui equipe tous leurs cargos et vaisseaux
+militaires.
+
+Technologie :
+Grace aux importants fonds depenses dans le militaire,
+ils ont cree une arme d'autociblage, le PROTO-SEEKER.
+Quelques uns de leurs croiseurs sont equipes de boucliers.
+
+Mission :
+Nos relations sont tendues avec Kratarite, et il est
+difficile de rivaliser directement contre une telle puissance.
+Cependant, quelques uns de leurs croiseurs rentrent d'une
+expedition. Vous profiterez de leur retour pour aneantir
+tous les vaisseaux de l'escadron.
+
+Recompense :
+Grace aux donnees que vous enregistrerez avec vos capteurs,
+nous serons en mesure de vous fournir des exemplaires
+du PROTO-SEEKER.
+
+> Chateaubriande
+Cette planete de mercenaires est tres influente
+et gene enormement la federation. Malgre leur
+manque de relations economiques avec l'exterieur,
+leur systeme d'education hors norme leur a permis
+de developper une arme de destruction imparable
+grace a un guidage de haute technologie.

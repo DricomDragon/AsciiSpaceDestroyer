@@ -1,0 +1,5 @@
+Ter 50 0
+Toper 51 125
+Dinger 44 256
+Dinger 22 356
+Dinger 77 400

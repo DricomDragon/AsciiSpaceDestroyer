@@ -1,0 +1,11 @@
+Uint32 CPU Disponible
+Uint32 nombre victoires
+bool Shield
+bool Gun
+bool Cutter
+bool Disper
+bool Photo
+bool Missile
+bool Hecto
+bool Sniper
+bool Brexit

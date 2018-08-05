@@ -130,14 +130,14 @@ void WaveManager::nextWave()
 
     for ( unsigned int i(0); i < m_lvl; i++) {
         m_escadron.push_back( new Foe );
-        m_escadron.back()->loadShape("Ships/Bloc10.txt");
+        m_escadron.back()->loadShape("Resources/Ships/Bloc10.txt");
         m_escadron.back()->giveHitManager( m_hiter );
         Uint16 dec( m_escadron.back()->getHitBox()->w );
         m_escadron.back()->setPos( -dec, 50 + i * disp );
     }*/
 
     // Par lecture
-    std::string lvlPath("Levels/" + m_planet + "/w_" + (char)(m_lvl + 48) + ".txt" );
+    std::string lvlPath("Resources/Levels/" + m_planet + "/w_" + (char) (m_lvl + 48) + ".txt");
     std::ifstream flux( lvlPath.c_str() );
     std::string shipName;
     Sint16 shipPos;
@@ -151,7 +151,7 @@ void WaveManager::nextWave()
 
         // Création
         m_escadron.push_back( new Foe );
-        m_escadron.back()->loadShape("Levels/" + m_planet + "/" + shipName + ".txt");
+        m_escadron.back()->loadShape("Resources/Levels/" + m_planet + "/" + shipName + ".txt");
         m_escadron.back()->giveHitManager( m_hiter );
 
         Uint16 dec( m_escadron.back()->getHitBox()->w );

@@ -22,7 +22,7 @@ void Score::load( std::string name )
 {
     // Chemin
     m_name = name;
-    string chemin( "Saves/" + name + ".txt" );
+    string chemin("Resources/Saves/" + name + ".txt");
 
     // Flux
     ifstream loadStream( chemin.c_str() );
@@ -39,7 +39,7 @@ void Score::load( std::string name )
 void Score::save()
 {
     // Chemin
-    string chemin( "Saves/" + m_name + ".txt" );
+    string chemin("Resources/Saves/" + m_name + ".txt");
 
     // Flux
     ofstream writeStream( chemin.c_str() );

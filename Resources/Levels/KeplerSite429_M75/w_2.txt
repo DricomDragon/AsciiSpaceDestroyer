@@ -1,0 +1,3 @@
+MiniCargo 60 0
+Escorter 70 150
+Escorter 50 200

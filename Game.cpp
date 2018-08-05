@@ -84,9 +84,9 @@ string Game::menu()
 {
     /// [1] Préparation
     // [1.2] Chargement des index
-    ifstream levelStream("Levels/index.txt");
-    ifstream shipStream("Ships/index.txt");
-    ifstream playerStream("Saves/index.txt");
+    ifstream levelStream("Resources/Levels/index.txt");
+    ifstream shipStream("Resources/Ships/index.txt");
+    ifstream playerStream("Resources/Saves/index.txt");
 
     // [1.3] Variables
     string line;
@@ -133,7 +133,7 @@ string Game::menu()
     }
 
     // [1.1] Préparation du joueur
-    m_player.loadShape( "Ships/" + shipNames[m_shipSelect] + ".txt" );
+    m_player.loadShape("Resources/Ships/" + shipNames[m_shipSelect] + ".txt");
     m_player.setPos( 50, 100 );
     shipCpu[m_shipSelect] = m_player.countCPU();
     string weapNames[ SHOT_NB ] = ACTOR_NAME;
@@ -167,7 +167,7 @@ string Game::menu()
             m_shipSelect += 1;
             if ( m_shipSelect >= shipNames.size() ) m_shipSelect = 0;
 
-            m_player.loadShape( "Ships/" + shipNames[m_shipSelect] + ".txt" );
+            m_player.loadShape("Resources/Ships/" + shipNames[m_shipSelect] + ".txt");
             m_player.setPos( 50, 100 );
 
             if ( shipCpu[m_shipSelect] == 0 ) shipCpu[m_shipSelect] = m_player.countCPU();
@@ -181,7 +181,7 @@ string Game::menu()
             m_shipSelect -= 1;
             if ( m_shipSelect >= shipNames.size() ) m_shipSelect = shipNames.size() - 1;
 
-            m_player.loadShape( "Ships/" + shipNames[m_shipSelect] + ".txt" );
+            m_player.loadShape("Resources/Ships/" + shipNames[m_shipSelect] + ".txt");
             m_player.setPos( 50, 100 );
 
             if ( shipCpu[m_shipSelect] == 0 ) shipCpu[m_shipSelect] = m_player.countCPU();
@@ -321,7 +321,7 @@ bool Game::rush( string planet )
 {
     /// [1] Préparation
     // [1.1] Préparation du joueur
-    //m_player.loadShape("Ships/LightBeam.txt");
+    //m_player.loadShape("Resources/Ships/LightBeam.txt");
     m_player.setPos( m_screen->w, m_screen->h / 2 );
 
     // [1.2] Nettoyage

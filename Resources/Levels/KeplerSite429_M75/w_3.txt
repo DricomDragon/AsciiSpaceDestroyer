@@ -1,0 +1,4 @@
+Extractor 50 0
+Extractor 30 200
+Extractor 74 400
+Escorter 60 300

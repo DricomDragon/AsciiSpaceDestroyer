@@ -1,0 +1,9 @@
+Dard 15 0
+Dard 85 100
+Dard 35 200
+Dard 65 300
+Dard 10 400
+Dard 90 450
+Simp 25 600
+Simp 75 600
+Cargo 50 650
