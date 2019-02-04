@@ -39,4 +39,5 @@ add_executable(ASCCI_Space_Destroyer_CLion ${SOURCE_FILES})
 
 target_link_libraries(ASCCI_Space_Destroyer_CLion ${SDL_LIBRARY})
 
-file(COPY Resources DESTINATION ${RUNTIME_OUTPUT_DIRECTORY}/)
+#file(COPY Resources DESTINATION ${RUNTIME_OUTPUT_DIRECTORY}/)
+file(COPY Resources DESTINATION .)
