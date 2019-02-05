@@ -1,9 +1,5 @@
-Carl
-Albane
-Margot
-Bruce
-Jovian
-Nathan
-Robot
-Elric
+Joueur1
+Joueur2
+Joueur3
 Ancestor
+Dricom
