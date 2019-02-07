@@ -1,3 +1,4 @@
+LocalTestRegularPlayer
 Joueur1
 Joueur2
 Joueur3
