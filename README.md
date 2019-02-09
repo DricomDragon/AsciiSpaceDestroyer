@@ -25,4 +25,4 @@ Libraries used :
 ## Related
 
 My own website where you can find more about this game, like executables (french).
-[Jovian Hersemeule - Projets - ASCII Space Destroyer(FR)](http://jovian-hersemeule.eu/projets/pro_ascii_space.html)
+[Jovian Hersemeule - Projets - ASCII Space Destroyer(FR)](http://jovian-hersemeule.eu/projets/pro_ascii_space.php)
