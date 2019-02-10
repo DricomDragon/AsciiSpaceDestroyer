@@ -4,17 +4,14 @@ project(ASCCI_Space_Destroyer_CLion)
 set(CMAKE_MODULE_PATH ${CMAKE_SOURCE_DIR})
 
 find_package(SDL)
+find_package(SDL_gfx)
 
-
-include_directories(${SDL_INCLUDE_DIR})
+include_directories(${SDL_INCLUDE_DIR} ${SDLGFX_INCLUDE_DIR})
 
 set(CMAKE_CXX_STANDARD 11)
 
 set(SOURCE_FILES
         main.cpp
-        SDL_GFX/SDL_gfxPrimitives.c
-        SDL_GFX/SDL_gfxBlitFunc.c
-        SDL_GFX/SDL_rotozoom.c
         Ally.cpp
         Foe.cpp
         Game.cpp
@@ -37,7 +34,6 @@ set(SOURCE_FILES
 
 add_executable(ASCCI_Space_Destroyer_CLion ${SOURCE_FILES})
 
-target_link_libraries(ASCCI_Space_Destroyer_CLion ${SDL_LIBRARY})
+target_link_libraries(ASCCI_Space_Destroyer_CLion ${SDL_LIBRARY} ${SDLGFX_LIBRARY})
 
-#file(COPY Resources DESTINATION ${RUNTIME_OUTPUT_DIRECTORY}/)
 file(COPY Resources DESTINATION .)
