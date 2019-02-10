@@ -26,3 +26,19 @@ Libraries used :
 
 My own website where you can find more about this game, like executables (french).
 [Jovian Hersemeule - Projets - ASCII Space Destroyer(FR)](http://jovian-hersemeule.eu/projets/pro_ascii_space.php)
+
+## Installation
+
+### To build
+
+#### Ubuntu
+Execute the following commands to install SDL and SDL GFX :
+`sudo apt install libsdl1.2-dev`
+`sudo apt install libsdl-gfx1.2-dev`
+
+### To play
+
+#### Ubuntu
+Execute the following commands to install SDL and SDL GFX :
+`sudo apt install libsdl1.2debian`
+`sudo apt install libsdl-gfx1.2-5`

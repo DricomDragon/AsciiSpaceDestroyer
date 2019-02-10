@@ -10,7 +10,7 @@
 #include <SDL.h>
 #undef main
 
-#include "SDL_GFX/SDL_gfxPrimitives.h"
+#include <SDL/SDL_gfxPrimitives.h>
 
 // Local
 #include "HitManager.h"
