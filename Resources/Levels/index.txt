@@ -2,6 +2,7 @@
 Menu:
 Clic gauche sur un champ -> suivant
 Clic droit -> precedent
+Entree -> lancer la partie
 
 Combat:
 Souris -> bouger le vaisseau
@@ -16,7 +17,7 @@ Touche T -> Hecto Combustion
 Touche Y -> Sniper
 
 Mission:
-Decouvrir les armes que vous aurez a combattre.
+Decouvrir les armes que vous aurez a combattre (cliquez sur Entree).
 
 > Alderande
 Description :
