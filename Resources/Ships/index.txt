@@ -15,9 +15,9 @@ Bloc10
 LightBeam
 Sword
 MSpear
+BLander
 Percor
 Triton
-BLander
 Chronotron
 BCruiser
 BadassLauncher
