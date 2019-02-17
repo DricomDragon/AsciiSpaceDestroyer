@@ -1,4 +1,4 @@
-Dinger 20
-Dinger 40
-Dinger 60
-Dinger 80
+Dinger 20 0
+Dinger 40 0
+Dinger 60 0
+Dinger 80 0
