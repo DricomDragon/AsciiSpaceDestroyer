@@ -17,6 +17,7 @@ Sword
 MSpear
 BLander
 Percor
+Noeil
 Triton
 Chronotron
 BCruiser
@@ -24,7 +25,6 @@ BadassLauncher
 Defender
 Nevada
 NeverBreak
-Noeil
 Nope
 TorpML
 X303
