@@ -45,7 +45,11 @@ void Sniper::update()
 void Sniper::draw( SDL_Surface* screen )
 {
     if ( m_exist )
-        stringRGBA(screen, m_x - 4, m_y - 4, "=", 255, 0, abs( m_velocity ) * 255 / SNIPER_MAX_SPEED, 255);
+        stringRGBA(screen, m_x - 4, m_y - 4, "=",
+                255 - (abs( m_velocity ) - SNIPER_MIN_SPEED) * 255 / (SNIPER_MAX_SPEED - SNIPER_MIN_SPEED),
+                255,
+                (abs( m_velocity ) - SNIPER_MIN_SPEED) * 255 / (SNIPER_MAX_SPEED - SNIPER_MIN_SPEED),
+                255);
 }
 
 bool Sniper::damageSolid( Uint8** solid, const Uint16 dimH, const Uint16 dimW, const SDL_Rect& hitbox )
