@@ -222,6 +222,29 @@ Grace aux donnees que vous enregistrerez avec vos capteurs,
 nous serons en mesure de vous fournir des exemplaires
 du PROTO-SEEKER.
 
+> DistantSite2018_FR
+Description :
+Cette petite planete pleine d'oceans est en train de vivre
+une revolution. Les dirigeants, afin de reprimer cette revolte,
+avaient commande a Chateaubriande, une planete pioniere en science
+et specialisee dans l'armement, des armes longues distance.
+
+Technologie :
+Grace au partage de connaissances opere entre les ingenieurs
+de DistantSite2018_FR et les chercheurs de Chateaubriande,
+le gouvernement possede le SNIPER.
+
+Mission :
+Des chefs revolutionnaires ont detourne tout un escadron constitue
+de vaisseaux equipes de SNIPER. Arme nouvelle qu'ils ne savent maitriser,
+les dirigeants nous demandent de leur envoyer un chasseur capable de
+neutraliser l'escadron detourne. Vous devez maintenant etre
+assez experimente pour survivre a cette arme destructrice.
+
+Recompense :
+Si vous parvenez pacifier la situation, le gouvernement vous
+donnera cette precieuse arme qu'est le SNIPER.
+
 > Chateaubriande
 Cette planete de mercenaires est tres influente
 et gene enormement la federation. Malgre leur
