@@ -19,6 +19,7 @@ BLander
 Percor
 Noeil
 Triton
+SuperNordon
 Chronotron
 BCruiser
 BadassLauncher
