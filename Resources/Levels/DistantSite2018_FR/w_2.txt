@@ -1,0 +1,9 @@
+Flash 60 0
+Flash 15 10
+Flash 50 120
+SciOp 55 220
+LongYell 75 260
+Flash 25 280
+Flash 50 350
+LongYell 75 500
+LongYell 75 750
