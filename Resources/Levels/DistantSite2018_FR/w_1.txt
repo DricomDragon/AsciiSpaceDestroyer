@@ -1,0 +1,17 @@
+Flash 10 0
+Flash 50 0
+Flash 40 100
+Flash 70 100
+Flash 60 200
+Flash 20 200
+Flash 30 300
+Flash 90 300
+Flash 80 400
+Flash 45 400
+Flash 10 500
+Flash 25 500
+Flash 75 580
+Flash 90 580
+Flash 50 650
+Flash 13 684
+Flash 22 743
