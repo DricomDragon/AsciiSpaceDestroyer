@@ -1,0 +1,16 @@
+EnterPlug 25 0
+LongYell 27 370
+Flash 20 700
+Flash 30 764
+EnterPlug 71 284
+LongYell 78 654
+Flash 76 984
+Flash 86 1048
+EnterPlug 62 568
+LongYell 64 938
+Flash 57 1268
+Flash 67 1332
+EnterPlug 38 840
+LongYell 40 1210
+Flash 33 1540
+Flash 43 1604
