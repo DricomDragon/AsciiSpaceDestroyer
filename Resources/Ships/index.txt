@@ -20,6 +20,7 @@ Percor
 Noeil
 Triton
 SuperNordon
+Insider
 Chronotron
 BCruiser
 BadassLauncher
@@ -29,5 +30,4 @@ NeverBreak
 Nope
 TorpML
 X303
-Insider
 Upgraded
