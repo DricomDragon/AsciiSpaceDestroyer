@@ -248,9 +248,26 @@ Si vous parvenez pacifier la situation, le gouvernement vous
 donnera cette precieuse arme qu'est le SNIPER.
 
 > Chateaubriande
-Cette planete de mercenaires est tres influente
-et gene enormement la federation. Malgre leur
-manque de relations economiques avec l'exterieur,
-leur systeme d'education hors norme leur a permis
-de developper une arme de destruction imparable
-grace a un guidage de haute technologie.
+Description :
+Cette planete de mercenaires est tres influente et gene enormement 
+la federation. Elle tres difficilement accessible et bien defendue.
+Leur lois sont tres strictes et impitoyables. Les meilleurs scientifiques
+de l'univers sont reunis sur cette planete. Leur potentiel de puissance
+est gigantesque. Soyez tres vigilant le jour ou vous aurez a vous rendre
+sur cette planete ...
+
+Technologie :
+Malgre leur manque de relations economiques avec l'exterieur,
+leur systeme d'education hors norme leur a permis de developper
+une arme de destruction imparable grace a un guidage de haute technologie.
+
+Mission :
+La gouvernance politque ne supporte plus l'existence de Chateaubriande.
+Les relations diplomatiques ont atteint un seuil critique. Mais toutes
+leurs tentatives de confrontation directes ont echoue ...
+Nous avons besoin du chasseur le plus puissant qui soit. Serez vous
+capables de tenir tete a cette puissance ?
+
+Recompense :
+Une fois leur flotte aneantie, nous recupererons la gouvernance de la planete.
+Nous pourrons alors vous fournir en MISSILE LAUNCHER, leur arme tant redoutee.
