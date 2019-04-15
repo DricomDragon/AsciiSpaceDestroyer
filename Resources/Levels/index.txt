@@ -244,7 +244,7 @@ neutraliser l'escadron detourne. Vous devez maintenant etre
 assez experimente pour survivre a cette arme destructrice.
 
 Recompense :
-Si vous parvenez pacifier la situation, le gouvernement vous
+Si vous parvenez a pacifier la situation, le gouvernement vous
 donnera cette precieuse arme qu'est le SNIPER.
 
 > Chateaubriande
