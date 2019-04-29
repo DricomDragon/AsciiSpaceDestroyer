@@ -119,10 +119,24 @@ void Score::giveLoot( std::string planet )
         return;
     }
 
-    // Bouclier de combat en recompene
+    // Bouclier de combat en recompense
     if ( planet == "Titan" )
     {
         m_hasShield = true;
+        return;
+    }
+
+    // Sniper
+    if ( planet == "DistantSite2018_FR" )
+    {
+        m_hasWeapon[ SNIPER_ID ] = true;
+        return;
+    }
+
+    // Sniper
+    if ( planet == "Chateaubriande" )
+    {
+        m_hasWeapon[ MISSILE_ID ] = true;
         return;
     }
 
