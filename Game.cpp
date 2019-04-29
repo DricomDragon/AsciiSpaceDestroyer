@@ -366,10 +366,10 @@ bool Game::rush( string planet )
         if ( m_input.getToucheHeld( SDLK_SPACE ) || m_input.getToucheHeld( SDLK_r ) ) // Touche r
             m_player.fire( BREXIT_ID );
 
-        if ( m_input.getToucheHeld( SDLK_SPACE ) || m_input.getToucheHeld( SDLK_t ) ) // Touche r
+        if ( m_input.getToucheHeld( SDLK_SPACE ) || m_input.getToucheHeld( SDLK_t ) ) // Touche t
             m_player.fire( HECTO_ID );
 
-        if ( m_input.getToucheHeld( SDLK_SPACE ) || m_input.getToucheHeld( SDLK_y ) ) // Touche r
+        if ( m_input.getToucheHeld( SDLK_SPACE ) || m_input.getToucheHeld( SDLK_y ) ) // Touche y
             m_player.fire( SNIPER_ID );
 
         // [2.3] Mise à jour des éléments
