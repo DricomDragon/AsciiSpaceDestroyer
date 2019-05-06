@@ -1,0 +1,12 @@
+tinyFake 41 0
+tinyFake 74 200
+tinyFake 61 400
+tinyFake 70 600
+tinyFake 61 800
+tinyFake 41 1000
+tinyFake 30 1200
+tinyLauncher 63 1400
+tinyFake 35 1400
+tinyFake 30 1600
+tinyFake 28 1800
+tinyLauncher 63 1800
