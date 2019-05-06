@@ -14,3 +14,15 @@ EnterPlug 38 840
 LongYell 40 1210
 Flash 33 1540
 Flash 43 1604
+EnterPlug 10 1100
+LongYell 12 1470
+Flash 5 1800
+Flash 15 1864
+EnterPlug 81 1350
+LongYell 88 1720
+Flash 86 2050
+Flash 96 2114
+SciOp 33 1700
+SciOp 44 2010
+SciOp 55 2400
+SciOp 66 1865
