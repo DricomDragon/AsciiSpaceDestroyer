@@ -30,10 +30,11 @@ set(SOURCE_FILES
         Shot/Missile.cpp
         Shot/Part.cpp
         Shot/Photo.cpp
-        Shot/Sniper.cpp)
+        Shot/Sniper.cpp
+        ${SDLGFX_SOURCE_DIR}/SDL_gfxPrimitives.c)
 
 add_executable(ASCCI_Space_Destroyer_CLion ${SOURCE_FILES})
 
-target_link_libraries(ASCCI_Space_Destroyer_CLion ${SDL_LIBRARY} ${SDLGFX_LIBRARY})
+target_link_libraries(ASCCI_Space_Destroyer_CLion ${SDL_LIBRARY})
 
 file(COPY Resources DESTINATION .)

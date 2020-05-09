@@ -24,50 +24,59 @@
 #  License text for the above reference.)
 
 FIND_PATH(SDLGFX_INCLUDE_DIR SDL_gfxPrimitives.h
-  HINTS
-  $ENV{SDLGFXDIR}
-  $ENV{SDLDIR}
-  PATH_SUFFIXES include
-  PATHS
-  ~/Library/Frameworks
-  /Library/Frameworks
-  /usr/local/include/SDL
-  /usr/include/SDL
-  /usr/local/include/SDL12
-  /usr/local/include/SDL11 # FreeBSD ports
-  /usr/include/SDL12
-  /usr/include/SDL11
-  /usr/local/include
-  /usr/include
-  /sw/include/SDL # Fink
-  /sw/include
-  /opt/local/include/SDL # DarwinPorts
-  /opt/local/include
-  /opt/csw/include/SDL # Blastwave
-  /opt/csw/include 
-  /opt/include/SDL
-  /opt/include
-)
+        HINTS
+        $ENV{SDLGFXDIR}
+        $ENV{SDLDIR}
+        PATH_SUFFIXES include
+        PATHS
+        ~/Library/Frameworks
+        /Library/Frameworks
+        /usr/local/include/SDL
+        /usr/include/SDL
+        /usr/local/include/SDL12
+        /usr/local/include/SDL11 # FreeBSD ports
+        /usr/include/SDL12
+        /usr/include/SDL11
+        /usr/local/include
+        /usr/include
+        /sw/include/SDL # Fink
+        /sw/include
+        /opt/local/include/SDL # DarwinPorts
+        /opt/local/include
+        /opt/csw/include/SDL # Blastwave
+        /opt/csw/include
+        /opt/include/SDL
+        /opt/include
+        )
 
-FIND_LIBRARY(SDLGFX_LIBRARY 
-  NAMES SDL_gfx
+FIND_PATH(SDLGFX_SOURCE_DIR SDL_framerate.c SDL_gfxBlitFunc.c SDL_gfxPrimitives.c SDL_imageFilter.c SDL_rotozoom.c
   HINTS
   $ENV{SDLGFXDIR}
   $ENV{SDLDIR}
-  PATH_SUFFIXES lib64 lib
+  PATH_SUFFIXES source
   PATHS
   ~/Library/Frameworks
   /Library/Frameworks
-  /usr/local
-  /usr
-  /sw
-  /opt/local
-  /opt/csw
-  /opt
+  /usr/local/source/SDL
+  /usr/source/SDL
+  /usr/local/source/SDL12
+  /usr/local/source/SDL11 # FreeBSD ports
+  /usr/source/SDL12
+  /usr/source/SDL11
+  /usr/local/source
+  /usr/source
+  /sw/source/SDL # Fink
+  /sw/source
+  /opt/local/source/SDL # DarwinPorts
+  /opt/local/source
+  /opt/csw/source/SDL # Blastwave
+  /opt/csw/source
+  /opt/source/SDL
+  /opt/source
 )
 
 SET(SDLGFX_FOUND "NO")
-IF(SDLGFX_LIBRARY AND SDLGFX_INCLUDE_DIR)
+IF(SDLGFX_SOURCE_DIR AND SDLGFX_INCLUDE_DIR)
   SET(SDLGFX_FOUND "YES")
-ENDIF(SDLGFX_LIBRARY AND SDLGFX_INCLUDE_DIR)
+ENDIF(SDLGFX_SOURCE_DIR AND SDLGFX_INCLUDE_DIR)
 
