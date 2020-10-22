@@ -5,7 +5,7 @@
 #include <cmath>
 
 // SDL
-#include <SDL.h>
+#include <SDL/SDL.h>
 #undef main
 
 #include <SDL/SDL_gfxPrimitives.h>

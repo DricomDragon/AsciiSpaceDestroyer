@@ -29,16 +29,25 @@ My own website where you can find more about this game, like executables (french
 
 ## Installation
 
-### To build
+### Ubuntu
 
-#### Ubuntu
+#### Build
+
+You need `make` and `SDL1` and `SDL_gfx` to build this project.
+
+Example on Ubuntu :
+```sh
+$ sudo apt install make g++ libsdl-dev libsdl-gfx1.2-dev
+$ make
+```
+
+To execute :
+```sh
+$ make exec
+```
+
+#### To play
+
 Execute the following commands to install SDL and SDL GFX :
-`sudo apt install libsdl1.2-dev`
-`sudo apt install libsdl-gfx1.2-dev`
 
-### To play
-
-#### Ubuntu
-Execute the following commands to install SDL and SDL GFX :
-`sudo apt install libsdl1.2debian`
-`sudo apt install libsdl-gfx1.2-5`
+`sudo apt install libsdl1.2debian libsdl-gfx1.2-5`
