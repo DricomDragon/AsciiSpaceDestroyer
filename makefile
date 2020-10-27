@@ -20,7 +20,7 @@ clean:
 	rm -rf $(OBJ)
 
 distclean: clean
-	rm -rf $(EXEC)
+	rm -rf ./bin
 
 exec: $(EXEC)
 	./bin/$(EXEC)
