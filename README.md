@@ -53,3 +53,8 @@ $ make exec
 Execute the following commands to install SDL and SDL GFX :
 
 `sudo apt install libsdl1.2debian libsdl-gfx1.2-5`
+
+## License
+
+GNU GPLv3, see `LICENSE.txt`.
+
