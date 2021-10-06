@@ -2,6 +2,8 @@
 
 The space shooter game made of ASCII characters.
 
+![ASCII Space Destroyer logo](project_icon_ASCII.png)
+
 ## Content
 
 Cross platform C++ source code of the game. It's a home-made open-source game, feel free to clone, modify, and propose pull requests.
